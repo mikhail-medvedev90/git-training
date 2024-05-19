@@ -1,4 +1,8 @@
+```
 git init
 git add
-git commit [-m] [--amend]
+git commit 
+    [-m] - message of the commit in line: git commit -m 'message'
+    [--amend] - cancel last commit and edit commit message: git commit --amend
 git checkout
+```

@@ -2,7 +2,8 @@
 git init - инициализация пустого репозитория
 git add - добавить в индекс
 git commit - сделать снимок (коммит) изменений
-    [-m] - message of the commit in line: git commit -m 'message'
-    [--amend] - cancel last commit and edit commit message: git commit --amend
-git checkout
+    [-a] - добавляет все файлы перед коммитом (git add (которые уже добавлены в индекс) + git commit)
+    [-m] - написать сообщение коммита после комманды: git commit -m 'message'
+    [--amend] - редактирование сообщения последнего коммита: git commit --amend
+git checkout - переключение на ветку или коммит, отмена изменения файла
 ```

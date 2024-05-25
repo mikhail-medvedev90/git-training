@@ -1,6 +1,6 @@
 ```
 git init - инициализация репозиторий
-git add
+git add - добавить в индекс
 git commit 
     [-m] - message of the commit in line: git commit -m 'message'
     [--amend] - cancel last commit and edit commit message: git commit --amend

@@ -1,5 +1,5 @@
 ```
-git init
+git init - инициализация репозиторий
 git add
 git commit 
     [-m] - message of the commit in line: git commit -m 'message'
